@@ -108,3 +108,12 @@ ViT-Tiny showed the best performance for classifying HCC and hemangioma on liver
 ## Disclaimer
 
 This project is for research and educational purposes only. It is not intended for clinical diagnosis, treatment decisions, or patient management.
+
+
+## Citation
+
+If you use this repository, please cite:
+
+Wisdom, J., & Dabrilagha, F. (2026). *AI-assisted liver ultrasound classification of hepatocellular carcinoma and hemangioma* (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20105001 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20105001.svg)](https://doi.org/10.5281/zenodo.20105001)
