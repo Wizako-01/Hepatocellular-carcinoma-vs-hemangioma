@@ -1,0 +1,46 @@
+# Python and notebook caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# Medical imaging datasets
+data/
+datasets/
+downloads/
+split_for_train/
+train/
+val/
+test/
+*.dcm
+*.nii
+*.nii.gz
+
+# Trained models
+*.keras
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.ckpt
+checkpoints/
+saved_models/
+
+# Training logs
+runs/
+wandb/
+lightning_logs/
+*.log
+*.tmp
+
+# Environment and system files
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
